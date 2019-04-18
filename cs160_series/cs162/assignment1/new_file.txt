@@ -1,0 +1,17 @@
+The state with the largest population: Oregon with the population of 2000000
+The county with the largest population: Lane with the population of 920482
+
+Counties with specific income: 
+
+County: Benton    |    Income: 100000
+
+County: Anderson    |    Income: 100000
+
+County: Houston    |    Income: 102939
+
+County: Dallas    |    Income: 293919
+
+Average household income per state: 
+Oregon-----200000
+South_Carolina-----50000
+Texas-----606374
